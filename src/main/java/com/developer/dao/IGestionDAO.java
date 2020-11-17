@@ -8,8 +8,14 @@ package com.developer.dao;
 import com.developer.modelo.Flight;
 
 /**
- * Clase abstract utilizar siempre en la herenciacomo clase padre
+ * 
+ * Se Utiliza la
+ * Clase abstract cuando es una herencia siendo esta la clase padre
  * agrupando comportamiento en comun de varias clases con sus metodos comunes.
+ * 
+ * Se Utiliza la
+ * Clase interface cuando tiene comportamiento diferencial
+ * de varias clases y sus metodos diferentes con atributos constantes, metodos obligatorios.
  *
  * @author Santiago Betancur Vilegas
  * @email santiago-betancur@hotmail.com
