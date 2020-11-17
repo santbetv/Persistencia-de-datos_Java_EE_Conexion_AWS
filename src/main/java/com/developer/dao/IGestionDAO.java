@@ -14,7 +14,7 @@ import com.developer.modelo.Flight;
  * agrupando comportamiento en comun de varias clases con sus metodos comunes.
  * 
  * Se Utiliza la
- * Clase interface cuando tiene comportamiento diferencial
+ * interface cuando tiene comportamiento diferencial
  * de varias clases y sus metodos diferentes con atributos constantes, metodos obligatorios.
  *
  * @author Santiago Betancur Vilegas
